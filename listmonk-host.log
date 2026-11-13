@@ -1,0 +1,100 @@
+2026/08/27 18:31:22.400672 main.go:106: 
+2026/08/27 18:31:22.408112 init.go:191: reading config: config.toml
+2026/08/27 18:31:22.411752 init.go:331: connecting to db: aws-0-ap-south-1.pooler.supabase.com:5432/postgres
+2026/08/27 18:31:23.472258 init.go:248: unable to initialize embedded filesystem (no ID found in the file). Using local filesystem
+2026/08/27 18:31:23.473004 init.go:270: loading i18n files from: i18n
+2026/08/27 18:31:23.473004 init.go:290: loading static files from: static
+2026/08/27 18:31:37.016684 init.go:779: media upload provider: filesystem
+2026/08/27 18:31:37.030115 init.go:687: initialized email (SMTP) messenger: igobackend6@gmail.com@smtp.gmail.com
+⇨ http server started on 127.0.0.1:9000
+2026/08/27 18:45:11.592547 manager.go:458: error fetching campaigns: read tcp 192.168.1.11:60935->65.0.195.55:5432: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/08/27 18:45:11.615699 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:12.327369 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:17.337832 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:22.327454 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:27.338289 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:32.338246 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:37.340129 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:42.328261 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:47.358276 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:52.327098 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:45:57.341610 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:02.361423 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:07.327690 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:12.339387 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:17.338509 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:22.327967 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:27.337893 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:32.327557 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:37.338179 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:37.362564 updates.go:46: error checking for remote update: Get "https://update.listmonk.app/update.json": dial tcp: lookup update.listmonk.app: no such host
+2026/08/27 18:46:42.327640 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:47.339120 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:52.338627 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:46:57.327763 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:47:02.339662 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:47:07.333186 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:20.634481 manager.go:458: error fetching campaigns: read tcp 192.168.1.11:58737->65.0.195.55:5432: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/08/27 18:50:20.655923 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:22.337468 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:27.335037 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:32.327608 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:37.332115 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:42.340959 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:47.326747 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:52.346313 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:50:57.326162 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:02.344850 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:07.326916 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:12.347617 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:17.328363 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:22.345437 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:35.459452 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:35.811671 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:37.416908 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:42.484108 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:48.528269 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:54.251564 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:51:57.340134 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:02.553532 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:07.330903 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:12.731502 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:17.359560 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:22.591405 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:27.405287 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:35.950606 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:37.861636 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:42.332061 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:47.444966 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:52.406489 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:52:57.332584 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:53:02.337640 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:53:07.341727 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 18:53:36.568297 manager.go:458: error fetching campaigns: read tcp 192.168.1.6:57659->65.0.195.55:5432: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/08/27 19:08:06.635687 manager.go:458: error fetching campaigns: read tcp 192.168.1.6:62434->65.0.195.55:5432: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/08/27 19:08:06.650557 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:07.329422 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:12.368145 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:17.335736 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:22.327481 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:27.338250 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:32.336092 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:37.336961 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:42.337080 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:47.371436 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:52.327806 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:08:57.342155 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:02.334212 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:07.357766 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:23.716963 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:34.847257 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:45.967806 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:45.972938 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:47.326793 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:52.583672 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:09:59.375148 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:10:02.811734 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:10:07.552527 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:10:12.452921 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:10:17.366196 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host
+2026/08/27 19:10:33.425845 manager.go:458: error fetching campaigns: dial tcp: lookup aws-0-ap-south-1.pooler.supabase.com: no such host

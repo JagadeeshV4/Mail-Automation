@@ -1,0 +1,10 @@
+2026/08/24 17:33:50.999797 main.go:106: 
+2026/08/24 17:33:51.001320 init.go:191: reading config: config.toml
+2026/08/24 17:33:51.002408 init.go:331: connecting to db: aws-0-ap-south-1.pooler.supabase.com:5432/postgres
+2026/08/24 17:33:51.582052 init.go:248: unable to initialize embedded filesystem (no ID found in the file). Using local filesystem
+2026/08/24 17:33:51.582052 init.go:270: loading i18n files from: i18n
+2026/08/24 17:33:51.582052 init.go:290: loading static files from: static
+2026/08/24 17:33:57.213448 init.go:779: media upload provider: filesystem
+2026/08/24 17:33:57.213448 init.go:687: initialized email (SMTP) messenger: username@smtp.yoursite.com
+⇨ http server started on 127.0.0.1:9000
+2026/08/24 17:48:58.350432 updates.go:73: new update v6.2.0 found
